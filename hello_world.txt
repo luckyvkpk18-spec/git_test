@@ -1,1 +1,3 @@
 Test hello world
+
+COMMIT check to write good commits
